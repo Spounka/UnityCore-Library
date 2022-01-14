@@ -2,7 +2,7 @@
 
 namespace Spounka.Core.Input
 {
-    public class MobileInput : IInput
+    public class MobileGameInput : IGameInput
     {
         public float GetXAxis => touchPosition.x;
 

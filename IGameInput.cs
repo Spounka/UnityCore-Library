@@ -1,6 +1,6 @@
 ﻿namespace Spounka.Core
 {
-    public interface IInput
+    public interface IGameInput
     {
         public float GetXAxis { get; }
         public float GetYAxis { get; }

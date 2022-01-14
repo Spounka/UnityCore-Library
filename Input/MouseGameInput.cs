@@ -2,7 +2,7 @@
 
 namespace Spounka.Core.Input
 {
-    public class MouseInput : IInput
+    public class MouseGameInput : IGameInput
     {
         public float GetXAxis
         {

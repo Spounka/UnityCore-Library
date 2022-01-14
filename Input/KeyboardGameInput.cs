@@ -2,7 +2,7 @@
 
 namespace Spounka.Core.Input
 {
-    public class KeyboardInput : IInput
+    public class KeyboardGameInput : IGameInput
     {
         public float GetXAxis => UnityEngine.Input.GetAxisRaw("Horizontal");
 
