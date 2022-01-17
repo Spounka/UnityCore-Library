@@ -1,7 +1,7 @@
 using Spounka.Core.DataTypes;
 using UnityEngine;
 
-namespace Spounka.Core
+namespace Spounka.core
 {
     public class BoolVariableSwitch : MonoBehaviour
     {
