@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Spounka.Core.DataTypes
+namespace Spounka.Core
 {
     [Serializable]
     public class VariableReference<T>

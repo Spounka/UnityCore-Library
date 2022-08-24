@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Spounka.Core.DataTypes
+namespace Spounka.Core
 {
     [Serializable]
     public class Vector2Reference

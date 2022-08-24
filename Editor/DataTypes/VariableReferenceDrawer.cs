@@ -1,5 +1,4 @@
-﻿using Spounka.Core.DataTypes;
-using UnityEditor;
+﻿using UnityEditor;
 using UnityEngine;
 
 namespace Spounka.Core.Editor

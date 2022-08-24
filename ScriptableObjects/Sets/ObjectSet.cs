@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Spounka.Core.Sets
+namespace Spounka.Core
 {
     [CreateAssetMenu(fileName = "ObjectSet", menuName = "Sets/ObjectSet")]
     public class ObjectSet : ScriptableObject

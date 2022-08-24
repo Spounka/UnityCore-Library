@@ -1,7 +1,6 @@
-﻿using Spounka.Core.Sets;
-using UnityEngine;
+﻿using UnityEngine;
 
-namespace Spounka.core
+namespace Spounka.Core
 {
     public class AddToSet : MonoBehaviour
     {
